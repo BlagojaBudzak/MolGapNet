@@ -1,0 +1,8 @@
+{
+  "app_name": "MolecularGNN",
+  "version": "1.0.0",
+  "target_key": "gap",
+  "model_file": "best_model.pt",
+  "scaler_file": "scaler.pkl",
+  "hidden_dim": 128
+}
