@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f1117,100:12384b&height=190&section=header&text=MolGapNet&fontSize=58&fontColor=00c8e0&animation=fadeIn&fontAlignY=38&desc=Graph%20Neural%20Networks%20for%20Molecular%20Property%20Prediction&descAlignY=64&descSize=16" width="100%" alt="MolGapNet banner" />
 
